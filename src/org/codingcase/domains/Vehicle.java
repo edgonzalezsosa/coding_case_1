@@ -1,4 +1,4 @@
-package com.gm.domains;
+package org.codingcase.domains;
 
 public abstract class Vehicle {
     private final int id;

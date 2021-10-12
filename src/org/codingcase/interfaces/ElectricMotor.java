@@ -1,4 +1,4 @@
-package com.gm.interfaces;
+package org.codingcase.interfaces;
 
 public interface ElectricMotor {
     static double getMilesPerGallonEquivalent(double milesPerKilowattHour) {

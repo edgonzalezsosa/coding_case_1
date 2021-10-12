@@ -1,6 +1,6 @@
-package com.gm.domains;
+package org.codingcase.domains;
 
-import com.gm.interfaces.Wheels;
+import org.codingcase.interfaces.Wheels;
 
 public class CombustionCar extends CombustionVehicle implements Wheels {
     private final int wheels;

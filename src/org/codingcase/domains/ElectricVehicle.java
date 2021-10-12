@@ -1,6 +1,6 @@
-package com.gm.domains;
+package org.codingcase.domains;
 
-import com.gm.interfaces.ElectricMotor;
+import org.codingcase.interfaces.ElectricMotor;
 
 public abstract class ElectricVehicle extends Vehicle {
     public ElectricVehicle(int id, String buyer, String brand, String model, int year, String trim,

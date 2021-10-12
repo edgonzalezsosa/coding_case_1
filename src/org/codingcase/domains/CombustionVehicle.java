@@ -1,6 +1,6 @@
-package com.gm.domains;
+package org.codingcase.domains;
 
-import com.gm.interfaces.CombustionEngine;
+import org.codingcase.interfaces.CombustionEngine;
 
 public class CombustionVehicle extends Vehicle implements CombustionEngine {
     private int cylinders;

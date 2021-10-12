@@ -1,11 +1,10 @@
-package com.gm;
+package org.codingcase;
 
-import com.gm.domains.ElectricCar;
-import com.gm.domains.Vehicle;
+import org.codingcase.domains.ElectricCar;
+import org.codingcase.domains.Vehicle;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Objects;
 import java.util.Scanner;
 import java.util.stream.Collectors;
 
